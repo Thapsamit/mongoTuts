@@ -1,0 +1,5 @@
+what is json vs bson?
+SQL vs MongoDb
+update vs updateMany
+deleteMany vs remove 
+what is mongoose?
